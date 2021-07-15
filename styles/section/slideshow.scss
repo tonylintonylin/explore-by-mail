@@ -1,3 +1,8 @@
-a.btn.hero__btn {
-    color: blue;
+.index-section--image-with-text-overlay .hero__inner {
+    float: right;
+}
+
+.index-section--image-with-text-overlay .hero__inner .text-right {
+    text-align: center!important;
+    padding-left: 4rem;
 }
